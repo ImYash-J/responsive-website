@@ -12,7 +12,7 @@ A simple responsive website built to demonstrate how CSS media queries make a we
 
 ## Screenshot
 
-![Responsive Website Screenshot](responsive website.png)
+![Responsive Website Screenshot](./responsive website.png)
 
 
 ## How to Run
