@@ -10,6 +10,10 @@ A simple responsive website built to demonstrate how CSS media queries make a we
 - Responsive typography and spacing adjustments
 - No sidebar — focus on content readability
 
+### demo
+
+https://imyash-j.github.io/responsive-website
+
 ## Screenshots
 
 ![Screenshot 1](./responsive%20website.png)
